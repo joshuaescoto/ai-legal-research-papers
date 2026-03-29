@@ -1,1 +1,1 @@
-Summaries of ai and machine learning research papers. 
+Summaries of ai and machine learning legal industry research papers. 
